@@ -1,0 +1,23 @@
+{
+  "name": "pulseboard-social-analytics-demo",
+  "version": "1.0.0",
+  "private": false,
+  "description": "An open-source, responsive social media analytics dashboard demo built with vanilla JavaScript.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "serve": "node scripts/serve.mjs"
+  },
+  "keywords": [
+    "dashboard",
+    "analytics",
+    "social-media",
+    "vanilla-javascript",
+    "open-source",
+    "portfolio-project"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
